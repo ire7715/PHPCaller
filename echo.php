@@ -1,5 +1,5 @@
 <?php
 
-var_dump($argv);
+echo json_encode($argv);
 
 ?>
